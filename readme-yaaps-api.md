@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h1 id="yaaps-api-yet-another-apps">Yaaps API (Yet Another Apps)</h1>
 <h2 id="project-overview">Project Overview</h2>
 <p>Yaaps API is a geographic data API that aggregates and provides access to a wide range of open-source<br>
